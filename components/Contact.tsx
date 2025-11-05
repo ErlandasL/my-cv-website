@@ -17,7 +17,7 @@ export function Contact() {
         <div className="space-y-6 mb-12 animate-slide-up" style={{ animationDelay: '0.2s' }}>
           <div className="p-6 rounded-lg bg-white dark:bg-white/5 animate-slide-up hover:bg-gray-50 dark:hover:bg-white/10 transition-all duration-300">
             <p className="text-gray-700 dark:text-gray-400 mb-2">Email</p>
-            <a href="mailto:erlandaslisauskas@gmail.com" className="text-2xl font-bold text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300">
+            <a href="mailto:erlandaslisauskas@gmail.com" className="text-lg md:text-2xl font-bold text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 break-all">
               erlandaslisauskas@gmail.com
             </a>
           </div>

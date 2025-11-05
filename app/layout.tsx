@@ -3,8 +3,7 @@ import { ThemeProvider } from '@/components/ThemeProvider'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'My CV',
-  description: 'Professional CV Website',
+  title: 'Erlandas Lisauskas - CV',
   robots: {
     index: false,
     follow: false,
