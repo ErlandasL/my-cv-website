@@ -23,6 +23,13 @@ export function Contact() {
           </div>
 
           <div className="p-6 rounded-lg bg-white dark:bg-white/5 animate-slide-up hover:bg-gray-50 dark:hover:bg-white/10 transition-all duration-300">
+            <p className="text-gray-700 dark:text-gray-400 mb-2">Phone</p>
+            <a href="tel:+37068901560" className="text-lg md:text-2xl font-bold text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300">
+              +37068901560
+            </a>
+          </div>
+
+          <div className="p-6 rounded-lg bg-white dark:bg-white/5 animate-slide-up hover:bg-gray-50 dark:hover:bg-white/10 transition-all duration-300">
             <p className="text-gray-700 dark:text-gray-400 mb-2">Location</p>
             <p className="text-2xl font-bold text-black dark:text-white">Vilnius/Šiauliai, Lithuania</p>
           </div>
